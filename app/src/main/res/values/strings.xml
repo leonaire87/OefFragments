@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OefFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_split_bill">Split Bill</string>
+    <string name="str_et_Amount">Total Amount</string>
+    <string name="str_et_Tip">Amount to tip</string>
+    <string name="str_et_Party">Size to party</string>
+    <string name="str_btn_Split">Split!</string>
+    <string name="str_tv_Each">Each Total</string>
+    <string name="str_tv_info">This is a usefull app to divide the bill that is designed by Leonaire!</string>
+    <string name="pref_et_tip">Amount of tip you want to give</string>
+    <string name="pref_payment">Payment method</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/array_payment"
+        android:entryValues="@array/array_payment"
+        android:key="list_preference_1"
+        android:title="@string/pref_payment" />
+    <EditTextPreference
+        android:defaultValue="true"
+        android:key="edit_text_preference_1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_et_tip" />
+</PreferenceScreen>

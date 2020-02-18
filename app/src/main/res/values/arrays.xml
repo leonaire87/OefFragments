@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_payment">Payment methods
+
+        <item>Bancontact</item>
+        <item>Qr-code</item>
+        <item>Visa</item>
+        <item>Mastercard</item>
+        <item>Cash</item>
+
+
+
+
+    </string-array>
+
+</resources>
